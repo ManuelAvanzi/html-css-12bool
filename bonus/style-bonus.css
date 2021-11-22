@@ -1,0 +1,46 @@
+.container{
+    border:1px solid black;
+}
+.col-xs-1{
+    border:1px solid black;
+    border-radius:10px;
+}
+.twelve>.col-xs-1{
+    background-color: navy;
+}
+.eleven>.col-xs-1{
+    background-color: rgba(0, 0, 128, 0.748);
+}
+.ten>.col-xs-1{
+    background-color: rgba(20, 88, 160, 0.748);
+}
+.nine>.col-xs-1{
+    background-color: white;
+}
+.eight>.col-xs-1{
+    background-color: white;
+}
+.seven>.col-xs-1{
+    background-color: white;
+}
+.six>.col-xs-1{
+    background-color: white;
+}
+.five>.col-xs-1{
+    background-color: white;
+}
+.four>.col-xs-1{
+    background-color: white;
+}
+.three>.col-xs-1{
+    background-color: white;
+}
+.two>.col-xs-1{
+    background-color: white;
+}
+.one>.col-xs-1{
+    background-color: white;
+}
+.nine>.playa{
+    background-color: yellow;
+}
